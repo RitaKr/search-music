@@ -97,7 +97,10 @@
 #more {
   padding: 10px 40px;
 }
-
+#more {
+  display: flex;
+  justify-content: space-between;
+}
 .song-list strong {
   color: rgb(52, 40, 117);
 }
